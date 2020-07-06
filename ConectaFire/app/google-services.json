@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395379454653",
+    "firebase_url": "https://conecta-ebf26.firebaseio.com",
+    "project_id": "conecta-ebf26",
+    "storage_bucket": "conecta-ebf26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395379454653:android:66212dfb04f0b6dc5c7dd4",
+        "android_client_info": {
+          "package_name": "com.example.conectafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395379454653-6nmtkhsdvllkisalh7t2677on1b939nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conectafire",
+            "certificate_hash": "e606616b30485d4cbc29f59cbe1fd64c2140e24b"
+          }
+        },
+        {
+          "client_id": "395379454653-o5bv95diakor5spuhn516pd0q7tv9bud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwVpHhx38xSKEgdNW2H0ELYpIsqsxyEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395379454653-o5bv95diakor5spuhn516pd0q7tv9bud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
